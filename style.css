@@ -1,0 +1,28 @@
+* {
+    font-family: 'Courier New', Courier, monospace ;
+    
+}
+
+.h1{
+    color: rgb(246, 131, 150);
+    font-size: 72px;
+    background: -webkit-linear-gradient(#eee, #c58787);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.p {
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.ingredients {
+    font-size: 20px;
+    font-weight: bold;
+}
+#list {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.preface {color: rgb(255, 200, 160);}
