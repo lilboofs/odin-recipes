@@ -1,4 +1,4 @@
-* {
+body {
     font-family: 'Courier New', Courier, monospace ;
     
 }
@@ -14,15 +14,24 @@
     font-family: 'Courier New', Courier, monospace ;
     font-size: 20px;
     font-weight: bold;
+   
 
 }
 .ingredients {
     font-size: 20px;
     font-weight: bold;
+
 }
 #list {
+   width: 400px;
     font-size: 14px;
     font-style: italic;
+    border:solid #c58787 10px;
+    background-color: #ffcece;
+   
 }
 
-.preface {color: rgb(255, 200, 160);}
+.preface {color: rgb(255, 200, 160);
+    border:solid #ffd284 5px;
+    background-color: darkslategrey;
+}
